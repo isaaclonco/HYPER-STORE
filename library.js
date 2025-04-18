@@ -5,42 +5,42 @@ const gameLibrary = [
       title: "Grand Theft Auto V",
       genre: "action",
       playtime: "45 Horas Jogadas",
-      image: "/assets/grid/gtav_grid.jpg"
+      image: "./assets/grid/gtav_grid.jpg"
      },
     {
     id: 2,
     title: "CS:GO",
     genre: "fps",
     playtime: "155 Horas Jogadas",
-    image: "/assets/grid/csgo_grid.jpg"
+    image: "./assets/grid/csgo_grid.jpg"
     },
     {
     id: 3,
     title: "Minecraft",
     genre: "aventura",
     playtime: "455 Horas Jogadas",
-    image: "/assets/grid/minecraft_grid.jpg"
+    image: "./assets/grid/minecraft_grid.jpg"
     },
     {
     id: 4,
     title: "The Witcher 3",
     genre: "aventura",
     playtime: "80 Horas Jogadas",
-    image: "/assets/grid/TheWitcher_grid.jpg"
+    image: "./assets/grid/TheWitcher_grid.jpg"
     },
     {
     id: 5,
     title: "Cyberpunk 2077",
     genre: "fps",
     playtime: "145 Horas Jogadas",
-    image: "/assets/grid/Cyberpunk2077_grid.jpg"
+    image: "./assets/grid/Cyberpunk2077_grid.jpg"
     },
     {
     id: 6,
     title: "Hollow Knight",
     genre: "action",
     playtime: "65 Horas Jogadas",
-    image: "/assets/grid/HollowKnight_grid.jpg"
+    image: "./assets/grid/HollowKnight_grid.jpg"
     },
    
   ];
